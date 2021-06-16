@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-explorer/static/css/main.64b9addf.chunk.css",
+    "main.js": "/weather-explorer/static/js/main.1385b7c1.chunk.js",
+    "main.js.map": "/weather-explorer/static/js/main.1385b7c1.chunk.js.map",
+    "runtime-main.js": "/weather-explorer/static/js/runtime-main.5b59008e.js",
+    "runtime-main.js.map": "/weather-explorer/static/js/runtime-main.5b59008e.js.map",
+    "static/js/2.9c5a64be.chunk.js": "/weather-explorer/static/js/2.9c5a64be.chunk.js",
+    "static/js/2.9c5a64be.chunk.js.map": "/weather-explorer/static/js/2.9c5a64be.chunk.js.map",
+    "static/js/3.67ce998f.chunk.js": "/weather-explorer/static/js/3.67ce998f.chunk.js",
+    "static/js/3.67ce998f.chunk.js.map": "/weather-explorer/static/js/3.67ce998f.chunk.js.map",
+    "index.html": "/weather-explorer/index.html",
+    "static/css/main.64b9addf.chunk.css.map": "/weather-explorer/static/css/main.64b9addf.chunk.css.map",
+    "static/js/2.9c5a64be.chunk.js.LICENSE.txt": "/weather-explorer/static/js/2.9c5a64be.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-explorer/static/media/snow5-bg.5e3a24cd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b59008e.js",
+    "static/js/2.9c5a64be.chunk.js",
+    "static/css/main.64b9addf.chunk.css",
+    "static/js/main.1385b7c1.chunk.js"
+  ]
+}
